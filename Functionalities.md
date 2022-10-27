@@ -1,15 +1,14 @@
 # Listado de Funcionalidades.
 
-- Login / Ingreso sin login.
-- Buscador de medicamentos por palabras clave.
-- Aplicar diferentes filtros.
-- Ordenar por diferentes criterios
-- Mostrar comparación con otros productos similares.
-- Muestra el precio histórico.
-- Compra en plataforma.
-- Envío de receta por parte del cliente y Validación automática de receta médica
-- Envíos al cliente.
-- Seguimiento del producto.
-- Selección de método de pago.
-- Estimación de entrega.
-- Almacén de recetas.
+- Login with authentication / login as guest.
+- Searcher of medicines using keywords.
+- Apply multiple filters.
+- Order by different criteria.
+- Show comparison with similar products.
+- Show historical price.
+- Buy inside the webpage.
+- Send medical prescription adn automatic validaiton.
+- Delivery to the client.
+- delivery tracking.
+- Payment method selection.
+- Delivery time estimation.
