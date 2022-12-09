@@ -1,3 +1,4 @@
+# Canvas value proposition
 The value proposition Canvas, part of the User research process on teh strategy plane is a framework which can help ensure that a product or service is positioned around what the customer values and needs.
 Using a values canvas helps to answer the questions of:
 - What do we want to get out of this product?
