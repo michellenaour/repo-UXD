@@ -1,10 +1,18 @@
-# Canvas value proposition
-The value proposition Canvas, part of the User research process on teh strategy plane is a framework which can help ensure that a product or service is positioned around what the customer values and needs.
-Using a values canvas helps to answer the questions of:
-- What do we want to get out of this product?
-- What do our users want to get out of it?
-These two questions being the foundation for every decision in our process as we design the user experience.
+# Navigation Flow 
+ 
+Is the sequence in which users can interact with the content. Is the map of navigation between one screen and another.Generally the navigation flow is role based.
 
+Our navigation flow starts with a first screen on which we will display the logo for a second. If the user is logged in, the home page will be shown, otherwise, the login page will. We call this set of 3 screens The Login Flow.
 
-The results of our value proposition canvas are that
-The 3 main focuses of our product will be time, money and comfort.
+from the home page, the user can navigate to:
+- Their profile
+- Search bar
+- shopping Cart
+
+From  user profile, we can go to Edit profile. We call this two screens the User Profile Flow
+From the search bar  we can go to search results, and then to product details. We call this set of 3 screens The Search Flow.
+
+From the shopping cart we can go to the checkout page. We call this set of 3 screens The Check-out flow.
+
+* From any page, we can navigate to The home/landing page.
+
