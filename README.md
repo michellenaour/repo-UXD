@@ -24,3 +24,7 @@ Link to Figma design [here](https://www.figma.com/file/hGEgM4cG0505wNhZbPIJF1/go
 ## Problem identification
 
 Health has always been and will always be a priority for people, so it is necessary to constantly buy medications and medical supplies for our friends and family. However, how do we know where to buy and at what price? These questions are becoming more and more important with the pandemic, as leaving the house is increasingly dangerous and people want to go directly to the indicated place without losing time looking for it. That is why it is important to know the places closest to our home to be able to compare them and find the best place to buy medications and medical supplies.
+
+## Problem solution
+
+As a team we wanted to help solve some of the problems raised above, and for that, we sought to implement an application that allows us to search and compare the closest pharmacies, filtering them according to the user's needs, thus facilitating the departure of the person, saving time, money and fixing a place to buy from home so as not to go around unnecessary.
